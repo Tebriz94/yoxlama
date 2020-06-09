@@ -1,0 +1,2 @@
+# yoxlama
+yoxlama meqsedli 
